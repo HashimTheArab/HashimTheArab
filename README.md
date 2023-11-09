@@ -1,4 +1,4 @@
-17 years old, pol.pot on Discord
+I do commissions, pol.pot on Discord. React Native, web dev, backend, everything.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimthearab&langs_count=10&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Hashim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashimthearab&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
