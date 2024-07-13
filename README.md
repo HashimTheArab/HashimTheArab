@@ -8,6 +8,8 @@ Full Stack developer focused on building startups.
 
 [Lunar Proxy - Minecraft Cheat App](https://lunarproxy.net)
 
+[LyricsTranslate.ai](https://lyricstranslate.ai)
+
 [Github Video Embed Generator](https://githubvideo.com)
 
 [AutoViral (WIP)](https://autoviral.app)
