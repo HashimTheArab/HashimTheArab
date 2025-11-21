@@ -10,8 +10,6 @@ Full Stack developer focused on building startups.
 
 [LyricsTranslate.ai](https://lyricstranslate.ai)
 
-[Github Video Embed Generator](https://githubvideo.com)
-
 [AutoViral (WIP)](https://autoviral.app)
 
 [Celebrity Flight Viewer (WIP)](https://celebrity.flights)
