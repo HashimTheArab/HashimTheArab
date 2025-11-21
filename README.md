@@ -8,6 +8,8 @@ Full Stack developer focused on building startups.
 
 [Lunar Proxy - Minecraft Cheat App](https://lunarproxy.net)
 
+Built the website for [CCQT](https://ccqtinc.com)
+
 [LyricsTranslate.ai](https://lyricstranslate.ai)
 
 [AutoViral (WIP)](https://autoviral.app)
