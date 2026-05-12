@@ -2,7 +2,7 @@
   
 # Hashim
 
-Full Stack developer focused on building startups.
+Software Developer
 
 # 💻 My Projects
 
@@ -11,10 +11,6 @@ Full Stack developer focused on building startups.
 Built the website for [CCQT](https://ccqtinc.com)
 
 [LyricsTranslate.ai](https://lyricstranslate.ai)
-
-[AutoViral (WIP)](https://autoviral.app)
-
-[Celebrity Flight Viewer (WIP)](https://celebrity.flights)
 
 # Tech Stack
 
