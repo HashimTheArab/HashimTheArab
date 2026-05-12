@@ -2,7 +2,7 @@
   
 # Hashim
 
-Software Developer
+Software Engineer
 
 # 💻 My Projects
 
